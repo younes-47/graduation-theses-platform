@@ -77,7 +77,7 @@ The system then checks if there is a confusion and act accordingly.
 
 ![](https://younes-khoubaz.netlify.app/assets/Abschlussprojekt/12.1.jpeg)
 
-After the thesis has been successfully scheduled, it will appear on the theses page for you to edit or view. It cannot be deleted as the system archives all theses.
+After the thesis has been successfully scheduled, it will appear on the theses page for the admin to edit or view. It cannot be deleted as the system archives all theses.
   
 
 #### Student page after the thesis was scheduled
@@ -87,13 +87,13 @@ After the thesis has been successfully scheduled, it will appear on the theses p
 
   
 
-#### committee (professors) page
+#### Committee member/Supervisor professor page
 
 Logging in as a professor or a committee member:
 
 ![](https://younes-khoubaz.netlify.app/assets/Abschlussprojekt/12.jpeg)
 
-The page contains all theses being supervised by the professor having the option to grade each one of them.
+The professor can see the list of theses that he is supervising or the list of theses that he is a committee member of. Having the option to grade each one of them.
 
 ![](https://younes-khoubaz.netlify.app/assets/Abschlussprojekt/13.jpeg)
 
